@@ -9,7 +9,7 @@ git remote add origin https://github.com/faisaldzkr04/lstm_app.git
 git branch -M main
 git add .
 git commit -m "Initial commit: Aplikasi Analisis Sentimen LSTM Timnas Indonesia"
-git push -u origin main
+git push -u origin main --force
 
 echo ===================================================
 echo  Selesai! Silakan periksa repository GitHub Anda:
